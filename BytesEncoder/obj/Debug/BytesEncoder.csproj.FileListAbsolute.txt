@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\BytesEncoder\bin\Debug\BytesEncoder.exe.config
+C:\Users\Administrator\Desktop\BytesEncoder\bin\Debug\BytesEncoder.exe
+C:\Users\Administrator\Desktop\BytesEncoder\bin\Debug\BytesEncoder.pdb
+C:\Users\Administrator\Desktop\BytesEncoder\obj\Debug\BytesEncoder.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\BytesEncoder\obj\Debug\BytesEncoder.Form1.resources
+C:\Users\Administrator\Desktop\BytesEncoder\obj\Debug\BytesEncoder.Properties.Resources.resources
+C:\Users\Administrator\Desktop\BytesEncoder\obj\Debug\BytesEncoder.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\BytesEncoder\obj\Debug\BytesEncoder.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\BytesEncoder\obj\Debug\BytesEncoder.exe
+C:\Users\Administrator\Desktop\BytesEncoder\obj\Debug\BytesEncoder.pdb
